@@ -1,0 +1,14 @@
+exemplos: 
+
+API call:
+docs.awesomeapi
+
+Links úteis: 
+https://docs.awesomeapi.com.br/
+
+fontes:
+https://fonts.google.com/specimen/Roboto
+
+
+uigradients:
+https://uigradients.com/#Maldives
